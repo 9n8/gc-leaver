@@ -14,7 +14,7 @@ os.system('cls')
 
 print(f'                        type >gl 2 leave all group chats \n\n')
 
-print(f'                                   {Fore.YELLOW}@pw1337 {Fore.LIGHTMAGENTA_EX} \n')
+print(f'                                   {Fore.YELLOW}@II1337 {Fore.LIGHTMAGENTA_EX} \n')
 
 @client.event
 async def on_message(message):

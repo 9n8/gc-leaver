@@ -1,4 +1,4 @@
-- dm @II#1337 for help
+
 - simple code for leaving all group chats
 - put ur token
 - enter
